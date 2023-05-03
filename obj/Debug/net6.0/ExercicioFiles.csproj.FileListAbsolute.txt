@@ -1,0 +1,15 @@
+C:\Users\two_c\OneDrive\Documentos\Csharp\ExercicioFiles\bin\Debug\net6.0\ExercicioFiles.exe
+C:\Users\two_c\OneDrive\Documentos\Csharp\ExercicioFiles\bin\Debug\net6.0\ExercicioFiles.deps.json
+C:\Users\two_c\OneDrive\Documentos\Csharp\ExercicioFiles\bin\Debug\net6.0\ExercicioFiles.runtimeconfig.json
+C:\Users\two_c\OneDrive\Documentos\Csharp\ExercicioFiles\bin\Debug\net6.0\ExercicioFiles.dll
+C:\Users\two_c\OneDrive\Documentos\Csharp\ExercicioFiles\bin\Debug\net6.0\ExercicioFiles.pdb
+C:\Users\two_c\OneDrive\Documentos\Csharp\ExercicioFiles\obj\Debug\net6.0\ExercicioFiles.csproj.AssemblyReference.cache
+C:\Users\two_c\OneDrive\Documentos\Csharp\ExercicioFiles\obj\Debug\net6.0\ExercicioFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\two_c\OneDrive\Documentos\Csharp\ExercicioFiles\obj\Debug\net6.0\ExercicioFiles.AssemblyInfoInputs.cache
+C:\Users\two_c\OneDrive\Documentos\Csharp\ExercicioFiles\obj\Debug\net6.0\ExercicioFiles.AssemblyInfo.cs
+C:\Users\two_c\OneDrive\Documentos\Csharp\ExercicioFiles\obj\Debug\net6.0\ExercicioFiles.csproj.CoreCompileInputs.cache
+C:\Users\two_c\OneDrive\Documentos\Csharp\ExercicioFiles\obj\Debug\net6.0\ExercicioFiles.dll
+C:\Users\two_c\OneDrive\Documentos\Csharp\ExercicioFiles\obj\Debug\net6.0\refint\ExercicioFiles.dll
+C:\Users\two_c\OneDrive\Documentos\Csharp\ExercicioFiles\obj\Debug\net6.0\ExercicioFiles.pdb
+C:\Users\two_c\OneDrive\Documentos\Csharp\ExercicioFiles\obj\Debug\net6.0\ExercicioFiles.genruntimeconfig.cache
+C:\Users\two_c\OneDrive\Documentos\Csharp\ExercicioFiles\obj\Debug\net6.0\ref\ExercicioFiles.dll
